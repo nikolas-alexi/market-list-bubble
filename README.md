@@ -26,6 +26,17 @@ The main goal was to train simple workflows and logic in Bubble. It helped solid
 
 👉 [Click here to view the app](https://nikolas010760.bubbleapps.io/version-test?debug_mode=true)
 
+## 🖼️ Screenshots
+
+### Main View
+![Main View](screenshots/main-view.png)
+
+### Products
+![Edit Item](screenshots/products.png)
+
+### Products 2
+![Edit Item](screenshots/products-2.png)
+
 ## 👤 Author
 
 **Níkolas Alexi**
